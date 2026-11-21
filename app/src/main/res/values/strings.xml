@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Πράσινα Νέα</string>
+    <string name="tab_feed">Ροή</string>
+    <string name="tab_sources">Πηγές</string>
+    <string name="tab_saved">Αποθηκευμένα</string>
+    <string name="search_hint">Αναζήτηση ειδήσεων ΠΑΟ…</string>
+    <string name="category_all">Όλα</string>
+    <string name="category_football">Ποδόσφαιρο</string>
+    <string name="category_basketball">Μπάσκετ</string>
+    <string name="category_amateur">Ερασιτέχνης</string>
+    <string name="category_transfers">Μεταγραφές</string>
+    <string name="refresh_news">Ανανέωση</string>
+    <string name="read_at_source">Ανάγνωση στο Site</string>
+    <string name="share_article">Κοινοποίηση</string>
+    <string name="save_article">Αποθήκευση</string>
+    <string name="saved_article">Αποθηκευμένο</string>
+    <string name="add_source">Προσθήκη πηγής</string>
+    <string name="sync_all_sources">Ενημέρωση όλων</string>
+</resources>

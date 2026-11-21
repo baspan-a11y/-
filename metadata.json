@@ -1,0 +1,6 @@
+{
+  "name": "Πράσινα Νέα",
+  "description": "Όλα τα νέα για τον Παναθηναϊκό σε ποδόσφαιρο, μπάσκετ και ερασιτέχνη από τα κορυφαία αθλητικά μέσα.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
